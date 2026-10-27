@@ -1,0 +1,37 @@
+[
+  {
+    "proposal": "A",
+    "rank": 1,
+    "status": "ranked",
+    "score": 92.0,
+    "reason": "Highest eligible score: strong verified experience, 12-week schedule, and complete team, safety and monitoring evidence."
+  },
+  {
+    "proposal": "E",
+    "rank": 2,
+    "status": "ranked",
+    "score": 82.25,
+    "reason": "Eligible with strong warranties and delivery plan; trails A on documented experience and timeline."
+  },
+  {
+    "proposal": "C",
+    "rank": 3,
+    "status": "ranked",
+    "score": 52.25,
+    "reason": "Eligible but provisional zero on experience: the stated period does not prove qualifying projects within the five-year cutoff; reviewer should verify dates."
+  },
+  {
+    "proposal": "D",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "Completion duration is unspecified, so the 16-week project limit cannot be confirmed; request a schedule."
+  },
+  {
+    "proposal": "B",
+    "rank": null,
+    "status": "ineligible",
+    "score": null,
+    "reason": "Mandatory bidder-held Ontario electrical contractor licence is not confirmed; proposed future subcontractor does not satisfy this requirement."
+  }
+]
